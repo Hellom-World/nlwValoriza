@@ -4,15 +4,15 @@
 
 - Cadastro de usuário
 
-    [ ] Não é permitido mais de um usúario com o mesmo e-mail
+    [ x ] Não é permitido mais de um usúario com o mesmo e-mail
 
-    [ ] Não pe permitido cadastrar usuários sem e-mail
+    [ x ] Não pe permitido cadastrar usuários sem e-mail
 
 - Cadastro de TAG
 
-    [ ] Não é permitido cadastrar mais de uma tag com o mesmo nome
+    [ x ] Não é permitido cadastrar tag sem nome
 
-    [ ] Não é permitido cadastrar tag sem nome
+    [ x ] Não é permitido cadastrar mais de uma tag com o mesmo nome
 
     [ ] Não é permitido o cadastro por usuários que não são administradores
 
